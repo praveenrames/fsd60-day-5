@@ -1,0 +1,70 @@
+ {
+    "basic" : [
+       {
+        "name" : "PRAVEEN KUMAR R",
+        "email" : "rpraveen1dme@gmail.com",
+        "phone" : 61380716579,
+        "degree" : "B.E",
+        "date of birth" : "21-05-2002",
+        "job title" : "Entry-Level Software Engineer"
+        }
+    ],
+      "Profile Summary" :[
+          {
+               "Aboutme" : "Dedicated and adaptable fresher with a passion for software development.Proficient in programming languages like Java with a solid understanding of software engineering principles. Strong problem solving skills and a collaborative mindset,eager to contribute to innovative projects"
+         }
+      ],
+          "location": [
+          {
+               "address" : "No 47 Panchavarnam Nagar",
+               "city" : "Cuddalore",
+               "Postalcode" : 607106,
+               "state" : "Tamilnadu",
+               "country" : "India"
+          }
+     ],
+         "Profiles" : [
+              {
+                "Website" : "www.linkedin.com/in/r-praveen-kumar08",
+                "github" : "https://github.com/praveenrames"
+              }
+         ],
+          "education" : [
+               {
+                 "institution" : "SRM Easwari Engineering College",
+                 "department" : "Mechanical",
+                 "StudyType" : "fulltime",
+                 "Batch start year" : 2021,
+                 "Batch end year" : 2024,
+                 "gpa" : 8.05
+               }
+          ],
+           "Skills" : [
+                {
+                    "TechnologyLanguage 1" : "Java,HTML,Css",
+                    "level" : "intermediate"
+                }
+           ],
+           "Language" : [
+                {
+                    "language" : "Tamil,Engliesh"
+                }
+           ],
+            "Soft Skill" : [
+                  {
+                    "name" : "Problem-Solving,Teamwork"
+                  }
+            ],
+             "Academic Project" : [
+                    {
+                        "Title" : "Experimental And Numerical Studies on Energy Absorption Behaviour on 3D Printed PETG-Carbon Filament Under High Velocity Impact"
+                    }
+             ],
+              "Internship Experience" : [
+                     {
+                        "Title" : "PERFORMANCE ANALYSIS OF STEAM TURBINE",
+                        "location" : "NLC Indian Limited"
+                     }
+              ]
+          
+}
